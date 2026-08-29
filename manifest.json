@@ -10,7 +10,7 @@
   "icons": [
     {
       "src": "https://ehqzwwhowyuvrrnwszhr.supabase.co/storage/v1/object/public/galeria/icono.png",
-      "sizes": "152x152",
+      "sizes": "150x150",
       "type": "image/png",
       "purpose": "any maskable"
     },
